@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\bin\Debug\net6.0\MediaApp.Common.deps.json
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\bin\Debug\net6.0\MediaApp.Common.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\bin\Debug\net6.0\MediaApp.Common.pdb
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.AssemblyInfo.cs
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\refint\MediaApp.Common.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\MediaApp.Common.pdb
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Common\obj\Debug\net6.0\ref\MediaApp.Common.dll

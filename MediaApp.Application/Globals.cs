@@ -1,0 +1,15 @@
+﻿global using MediaApp.Infrastructure.Auth;
+global using MediaApp.Application.Repositories.User;
+global using MediaApp.Application.ServiceResponses;
+global using MediaApp.Domain.Aggregates.UserAggregates;
+global using MediaApp.Infrastructure.PasswordHashers;
+global using MediaApp.Common.Models;
+global using Media.DataAccess;
+global using Microsoft.EntityFrameworkCore;
+global using MediaApp.Infrastructure.Cache;
+global using AutoMapper;
+global using MediaApp.Application.CachingModels;
+global using MediaApp.Domain.Aggregates.PostAggregates;
+global using MediaApp.Application.Repositories.Post;
+global using MediaApp.Application.Exceptions;
+global using MediaApp.Application.Repositories.Comment;

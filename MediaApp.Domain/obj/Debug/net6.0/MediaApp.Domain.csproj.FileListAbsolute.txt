@@ -1,0 +1,15 @@
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\bin\Debug\net6.0\MediaApp.Domain.deps.json
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\bin\Debug\net6.0\MediaApp.Domain.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\bin\Debug\net6.0\MediaApp.Domain.pdb
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.AssemblyInfo.cs
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\refint\MediaApp.Domain.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.pdb
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\ref\MediaApp.Domain.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\bin\Debug\net6.0\MediaApp.Common.dll
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\bin\Debug\net6.0\MediaApp.Common.pdb
+C:\Users\Windows\source\repos\MediaApp\MediaApp.Domain\obj\Debug\net6.0\MediaApp.Domain.csproj.CopyComplete

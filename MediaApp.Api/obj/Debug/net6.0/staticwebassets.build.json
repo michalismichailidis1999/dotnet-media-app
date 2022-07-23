@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ekVvIay5IhfUJuMqam9fCXCteFHPyqmUoocrA01HvQ0=",
+  "Source": "MediaApp.Api",
+  "BasePath": "_content/MediaApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
