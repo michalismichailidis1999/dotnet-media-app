@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: media-app-depl
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: media-app-service
+  template:
+    metadata:
+      labels:
+        app: media-app-service
+    spec:
+      containers:
+        - name: media-app-service
+          image: michailidis1999/mediaapp:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: media-app-clusterip-svc
+spec:
+  type: ClusterIP
+  selector:
+    app: media-app-service
+  ports:
+    - name: media-app-service
+      protocol: TCP
+      port: 80
+      targetPort: 80
