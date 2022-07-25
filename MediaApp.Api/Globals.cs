@@ -35,3 +35,4 @@ global using MediaApp.Api.Dtos.Request.CommentDtos;
 global using MediaApp.Application.Services.CommentService;
 global using MediaApp.Api.Dtos.Response.CommentDtos;
 global using MediaApp.Application.Repositories.Comment;
+global using Media.DataAccess;

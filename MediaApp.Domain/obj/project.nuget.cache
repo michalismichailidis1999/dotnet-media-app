@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IeGcDPFEs8g750/+NSoCTH8RaCMKSrBEANY/S0zuicZpAX7Q7yMvLnnlKaZXu6UCObfKXoeFON7tPHlwTDUCcA==",
+  "dgSpecHash": "LYbrfsJjCcZDayq6LZkUT1vODkGdhnQoQQQ2mKfyYxKACOd7JGR/ZWvfWkqRO6f/FztNzGsadqFNNUJwUk/lgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
+  "projectFilePath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

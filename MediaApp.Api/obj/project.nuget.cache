@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXN6y24Iet41JDMTooZj36fHDo2ehHGq8ey94JU1B7xdSiRqxYd68giS8ERgBi2Lhj6LX7dBWiQFWUPqk+2cdg==",
+  "dgSpecHash": "JmVASClQ3dMqvYNnou5E8GnZyeQxK7msmEjh5FFHqvlmhQsUJbGX67MwvKKYcALeB8m4FdNIW8kJGmUxJa1g/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Api\\MediaApp.Api.csproj",
+  "projectFilePath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Api\\MediaApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

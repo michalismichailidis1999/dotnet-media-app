@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcvyD82cSAC3XpWYIYokx3qbBVCu8/i2a2mevA+aYq6CDejF0uOgKXGynO8M9W5IP2U2oxy65qdeb+7E4N1jlQ==",
+  "dgSpecHash": "ComZtYPEfc64re9ajZKz8aqH4TJeN/eXRESSOJawViYSI9ThTHM5eG/FNGFCo34CajCCZhKXu3nntkWqKbDMow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Infrastructure\\MediaApp.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Infrastructure\\MediaApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows\\.nuget\\packages\\bcrypt.net\\0.1.0\\bcrypt.net.0.1.0.nupkg.sha512",
     "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",

@@ -10,5 +10,7 @@ public class WebAppRegister : IWebApplicationRegister
         app.UseAuthorization();
 
         app.MapControllers();
+
+        app.PrepareDatabase();
     }
 }

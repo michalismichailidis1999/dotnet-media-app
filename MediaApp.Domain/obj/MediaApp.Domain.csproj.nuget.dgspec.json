@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj": {}
+    "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj": {
+    "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj",
+        "projectUniqueName": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj",
         "projectName": "MediaApp.Common",
-        "projectPath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj",
+        "projectPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\obj\\",
+        "outputPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows\\NuGet.Config",
+          "c:\\Users\\Windows\\NuGet.Config",
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,17 +58,17 @@
         }
       }
     },
-    "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj": {
+    "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
         "projectName": "MediaApp.Domain",
-        "projectPath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
+        "projectPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows\\NuGet.Config",
+          "c:\\Users\\Windows\\NuGet.Config",
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj": {
-                "projectPath": "C:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj"
+              "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj": {
+                "projectPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj"
               }
             }
           }
