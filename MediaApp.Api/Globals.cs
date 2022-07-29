@@ -36,3 +36,8 @@ global using MediaApp.Application.Services.CommentService;
 global using MediaApp.Api.Dtos.Response.CommentDtos;
 global using MediaApp.Application.Repositories.Comment;
 global using Media.DataAccess;
+global using MediaApp.Infrastructure.MessageBroker;
+global using MediaApp.Infrastructure.MessageBroker.RabbitMQ;
+global using MediaApp.Common.Models;
+global using MediaApp.Common.EventProcessing;
+global using MediaApp.Infrastructure.MessageBroker.Kafka;

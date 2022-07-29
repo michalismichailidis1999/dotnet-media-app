@@ -140,6 +140,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj": {
+                "projectPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Common\\MediaApp.Common.csproj"
+              },
               "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj": {
                 "projectPath": "c:\\Users\\Windows\\source\\repos\\MediaApp\\MediaApp.Domain\\MediaApp.Domain.csproj"
               }
@@ -160,9 +163,17 @@
               "target": "Package",
               "version": "[0.1.0, )"
             },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             },
             "StackExchange.Redis": {
               "target": "Package",

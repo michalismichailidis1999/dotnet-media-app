@@ -7,14 +7,17 @@ public class PostService : BaseService, IPostService
     private const string PostInterationsKey = "postInteractions/post:";
 
     private readonly IPostRepository _repository;
+    private readonly IMessageBusPublisher<MessageBusPostEntity> _publisher;
 
     public PostService(
         IPostRepository repository,
         ICachingDB cachingDB,
-        IMapper mapper
+        IMapper mapper,
+        IMessageBusPublisher<MessageBusPostEntity> publisher
     ) : base(cachingDB, mapper)
     {
         _repository = repository;
+        _publisher = publisher;
     }
 
     public async Task<PostServiceResponse> CreatePost(Post post)
@@ -28,6 +31,8 @@ public class PostService : BaseService, IPostService
             postServiceResponse.Payload = post;
 
             _cachingDB.CreateEntry(CachingKey + post.Id, _mapper.Map<PostCachingModel>(post));
+
+            _publisher.Publish(_mapper.Map<MessageBusPostEntity>(post));
         }
         catch (UserNotFoundException e)
         {

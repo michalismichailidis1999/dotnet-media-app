@@ -13,3 +13,4 @@ global using MediaApp.Domain.Aggregates.PostAggregates;
 global using MediaApp.Application.Repositories.Post;
 global using MediaApp.Application.Exceptions;
 global using MediaApp.Application.Repositories.Comment;
+global using MediaApp.Infrastructure.MessageBroker;

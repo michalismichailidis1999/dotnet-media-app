@@ -9,7 +9,18 @@ public class DbRegister : IWebApplicationBuilderRegister
         try
         {
             builder.Services.AddDbContext<DatabaseContext>(
-                options => options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer"))
+                options => options.UseSqlServer(
+                    builder.Configuration.GetConnectionString("SqlServer"),
+                    sqlServerOptionsAction: sqlOptions =>
+                    {
+                        sqlOptions.EnableRetryOnFailure
+                        (
+                            maxRetryCount: 10,
+                            maxRetryDelay: TimeSpan.FromSeconds(30),
+                            errorNumbersToAdd: null
+                        );
+                    }
+                )
             );
         }
         catch (Exception e)
